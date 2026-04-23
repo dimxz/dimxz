@@ -9,10 +9,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dimxz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=dimxz&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/a) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
